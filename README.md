@@ -37,6 +37,4 @@ Available releases:
 3. Android may show a security warning because Pulse is distributed outside Google Play.
 4. Allow installation and open the app.
 
-## Version
-
-Current version: 1.0
+## Latest version: 1.0
