@@ -1,30 +1,16 @@
-# Changelog
+## Pulse v1.0.0
 
-All notable changes to this project will be documented in this file.
+Initial public release.
 
-## [1.0] - 2026-07-08
+### Features
+- Offline music playback
+- Mini player
+- Full player screen
+- Shuffle mode
+- Repeat mode
+- Local audio library
+- Background playback
+- Modern Material interface
 
-### Added
-
-* Initial public release.
-* Offline music playback.
-* Automatic local music library scanning.
-* Mini player on the home screen.
-* Full-screen player.
-* Play, pause, next and previous controls.
-* Shuffle mode.
-* Repeat modes (Off, All, One).
-* Playback progress bar with seeking.
-* Background audio playback using Android Media3.
-
-### Improved
-
-* Clean and simple user interface.
-* Stable playback experience.
-* Optimized MediaController integration.
-
-### Notes
-
-* Pulse is distributed as a standalone APK.
-* No advertisements are included.
-* Internet connection is not required for playback.
+### Requirements
+- Android 8.0+
