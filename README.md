@@ -21,9 +21,9 @@ Pulse is an Android music player focused on offline listening and a clean user e
 
 ## Screenshots
 
-<img src="Screenshots/home.png" width="250">
+<img src="Screenshots/home.jpg" width="250">
 
-<img src="Screenshots/player.png" width="250">
+<img src="Screenshots/player.jpg" width="250">
 
 ## Download
 
