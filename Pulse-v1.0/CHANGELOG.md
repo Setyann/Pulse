@@ -16,8 +16,6 @@ All notable changes to this project will be documented in this file.
 * Repeat modes (Off, All, One).
 * Playback progress bar with seeking.
 * Background audio playback using Android Media3.
-* Music permission handling.
-* Empty library screen when no audio files are found.
 
 ### Improved
 
