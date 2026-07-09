@@ -28,7 +28,7 @@ Pulse is an offline Android music player focused on simplicity, performance, and
 
 ## Download
 
-Download the latest APK from the [Releases](Releases) section.
+Download the latest APK from the **Releases** section.
 
 ## Installation
 
@@ -37,9 +37,9 @@ Download the latest APK from the [Releases](Releases) section.
 3. Android may display a security warning because the application is distributed outside Google Play.
 4. Confirm the installation and launch Pulse.
 
-## Current Version
+## Available Versions
 
-[v1.0.0](Releases/v1.0.0)
+- v1.0.0
 
 ## License
 
