@@ -4,7 +4,8 @@
 
 | Version | Supported |
 |----------|-----------|
-| 1.0.x    | ✅ Yes |
+| 1.1.x    | ✅ Yes |
+| 1.0.x    | ❌ No |
 
 ## Reporting a Vulnerability
 
@@ -30,4 +31,4 @@ Pulse is an offline music player.
 - No advertisements are included.
 - No internet connection is required for music playback.
 
-Security reports will be reviewed and addressed in future updates when applicable.
+Security reports will be reviewed and addressed when applicable.
