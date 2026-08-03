@@ -1,4 +1,3 @@
-> Pulse is currently under active development.
 # Pulse
 
 Pulse is an offline Android music player focused on simplicity, performance, and a clean user experience.
@@ -12,9 +11,11 @@ Pulse is an offline Android music player focused on simplicity, performance, and
 - Local music library scanning
 - Runtime permission handling
 - Custom Material Design interface
+- Playback progress control
 
 ## Built with
 
+- Kotlin
 - Java
 - Android SDK
 - AndroidX Media3 (ExoPlayer)
@@ -39,6 +40,7 @@ Download the latest APK from the **Releases** section.
 
 ## Available Versions
 
+- v1.1.0
 - v1.0.0
 
 ## License
