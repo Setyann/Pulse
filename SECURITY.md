@@ -1,34 +1,49 @@
 # Security Policy
 
-## Supported Versions
+## Supported versions
+
+Only the latest release receives security fixes. Older versions are not updated.
 
 | Version | Supported |
-|----------|-----------|
-| 1.1.x    | ✅ Yes |
-| 1.0.x    | ❌ No |
+|---------|-----------|
+| 1.2.x   | Yes       |
+| 1.1.x   | No        |
+| older   | No        |
 
-## Reporting a Vulnerability
+## What Pulse does with your data
 
-If you discover a security issue in Pulse, please report it responsibly.
+Pulse plays music files stored on your device. It has no accounts, no servers
+of its own and does not collect personal data. The only network request is the
+check for new releases on GitHub, and the APK download when you choose to
+update.
 
-You can contact the developer by opening a GitHub Issue or by using the contact information provided in the repository.
+## Reporting a vulnerability
 
-Please include:
+Please do not open a public issue for security problems.
 
-- A clear description of the issue.
-- Steps to reproduce the problem.
-- The affected version.
-- Screenshots or logs (if applicable).
+Report them privately through GitHub: go to **Security** → **Report a
+vulnerability** on this repository. Include:
 
-## Security Notes
+- a description of the problem and its impact;
+- the Pulse version and the Android version of your device;
+- steps to reproduce, or a short proof of concept.
 
-Pulse is an offline music player.
+I will reply as soon as I can and will work with you on a fix before any public
+disclosure. Good-faith research within this scope is welcome.
 
-- No user accounts are required.
-- No cloud synchronization is used.
-- No personal data is collected.
-- No analytics are included.
-- No advertisements are included.
-- No internet connection is required for music playback.
+## Scope
 
-Security reports will be reviewed and addressed when applicable.
+In scope:
+- issues that let another app or a malicious file access data it should not;
+- problems with how the update check or the APK download is handled;
+- issues with permissions requested by the app.
+
+Out of scope:
+- problems in Android itself or in other apps;
+- social engineering;
+- issues that require physical access to an already unlocked device.
+
+## Signing keys
+
+Release signing keys and passwords are never stored in this repository.
+If you find a key or password in the code or its history, report it as above.
