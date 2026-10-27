@@ -50,21 +50,6 @@ Download the latest APK from the [Releases](https://github.com/Setyann/Pulse/rel
 - v1.1.0
 - v1.0.0
 
-## Build from source
-
-1. Open the project in Android Studio.
-2. Debug builds work without any extra setup.
-3. Release builds need a signing keystore. Create `keystore.properties` in the project root:
-
-   ```
-   storeFile=path/to/your.keystore
-   storePassword=...
-   keyAlias=...
-   keyPassword=...
-   ```
-
-   This file is ignored by git and must never be committed.
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
